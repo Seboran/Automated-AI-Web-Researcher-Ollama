@@ -38,6 +38,12 @@ The key distinction is that this isn't just a chatbot - it's an automated resear
 
 ## Installation
 
+## Devcontainer
+
+[![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama)
+
+## Manual steps
+
 1. Clone the repository:
 
 ```sh
